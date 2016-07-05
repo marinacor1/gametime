@@ -4,8 +4,8 @@
 ## Basics
 
 ### Team
-- [Janever](https://github.com/tenderlove)
-- [Marina](https://github.com/wycats)
+- [Marina](https://github.com/marinacor1)
+- [Jeneve](https://github.com/jeneve)
 
 ### Game Name
 
