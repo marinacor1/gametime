@@ -1,0 +1,68 @@
+
+# Game Time Check In # 1
+
+## Basics
+
+### Team
+- [Janever](https://github.com/tenderlove)
+- [Marina](https://github.com/wycats)
+
+### Game Name
+
+Type or Burn
+
+### Give a Basic Description of the Game
+
+Play has to correctly and speedily type words on the screen to keep the bird out of the lava.
+
+### Include a Link to or Screen Shot of the Game
+
+[Snek](http://imgur.com/gallery/owNiA)
+
+### Link to the Github repository for the project
+[Your Repo](https://youtu.be/kZSfPPJ4Fk8)
+
+## The Plan
+
+### Describe Your goals for the finished product
+
+- Bird is consistently trying to fly above the lava.
+- If the player does nothing, the bird will drop into the lava.
+- If the player types quickly and correctly the numbers that are appearing on the screen, the bird will stay above the lava.
+- If the player has too many errors, types slowly or not at all, the bird will fall into the lava.
+- If the player finishes typing a sequence of letters without the bird falling into the lava, they move onto the next level.
+- Levels increase in complexity by the length of the text that they have to type, making lava grow and/ or making the bird fall faster.
+- Player accumulates point and the game gets harder and harder and goes on forever...
+- Two player mode where players compete for highest score.
+
+
+### What is your MVP, or 'this was harder than I thought' plan?
+
+- Bird is consistently trying to fly above the lava.
+- If the player does nothing, the bird will drop into the lava.
+- If the player types quickly and correctly the numbers that are appearing on the screen, the bird will stay above the lava.
+- If the player has too many errors, types slowly or not at all, the bird will fall into the lava.
+- If the player finishes typing a sequence of letters without the bird falling into the lava, they move onto the next level.
+- Levels increase in complexity by the length and/or complexity of the text that they have to type.
+- Player accumulates point and the game gets harder and harder and goes on for six levels.
+
+### What have you accomplished so far?
+- Starter kit and Git repo set up
+- Render two canvases; one on top of other
+- See something happening on two canvases by firing one function
+- Waffle.io setup
+- Create an iterative spec, plan our iterations
+- Have six texts compiled. (Use every letter in alphabet, different language, lorem impsom)
+
+
+### Questions, Comments, Concerns?
+
+-----
+
+## Instructor Section
+
+### Points for first check in (base 50)
+
+### Instructor's goals for next check in
+
+### Feedback?
