@@ -17,10 +17,18 @@ Play has to correctly and speedily type words on the screen to keep the bird out
 
 ### Include a Link to or Screen Shot of the Game
 
-[Snek](http://imgur.com/gallery/owNiA)
+[FlappyBird](https://cdn1.vox-cdn.com/thumbor/N_kdRL-phhGeAHBnofN5cEjPEeg=/0x0:639x426/1280x854/cdn0.vox-cdn.com/assets/3964735/flappy_bird.png)
+
++
+
+[Joust](http://gamefabrique.com/storage/screenshots/nes/joust-04.png)
+
++
+
+[Random Typing Game](http://www.rapidtyping.com/img/typing-tutor/5-0/beginner-course.png)
 
 ### Link to the Github repository for the project
-[Your Repo](https://youtu.be/kZSfPPJ4Fk8)
+[Typrr-burn](https://github.com/jeneve/typrr-burn)
 
 ## The Plan
 
@@ -49,10 +57,12 @@ Play has to correctly and speedily type words on the screen to keep the bird out
 ### What have you accomplished so far?
 - Starter kit and Git repo set up
 - Render two canvases; one on top of other
+- Build initial code for determining whether letter is correct or not
 - See something happening on two canvases by firing one function
 - Waffle.io setup
-- Create an iterative spec, plan our iterations
 - Have six texts compiled. (Use every letter in alphabet, different language, lorem impsom)
+- DTR
+- Drawn wireframe
 
 
 ### Questions, Comments, Concerns?
